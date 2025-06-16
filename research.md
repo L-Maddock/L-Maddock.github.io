@@ -13,3 +13,4 @@ permalink: /research/
 
 - **Project A**: Short description.
 - **Project B**: Short description.
+---
