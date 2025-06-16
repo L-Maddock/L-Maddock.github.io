@@ -15,4 +15,4 @@ permalink: /teaching/
 Briefly describe your teaching philosophy and any pedagogical training.
 
 
----
+
