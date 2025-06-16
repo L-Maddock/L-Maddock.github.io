@@ -1,4 +1,4 @@
-```markdown
+
 ---
 layout: default
 title: "Teaching"
@@ -13,6 +13,6 @@ permalink: /teaching/
 ## Teaching Statement
 
 Briefly describe your teaching philosophy and any pedagogical training.
-```
+
 
 ---
