@@ -11,4 +11,4 @@ permalink: /about/
 - **B.A. Economics**, University Y, 2020
 
 Describe your research interests, dissertation topic, and any awards or fellowships.
----
+
