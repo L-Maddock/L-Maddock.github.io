@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-## Education & Work Experience
-I am finishing my Ph.D. from [the Department of Economics](https://economics.colostate.edu/graduate/) at Colorado State University in Spring 2026. I completed my preliminary dissertation defense in Spring 2025. Prior to Colorado State, I earned my Master's in Science degree in Applied Economics with a concentration in mathematics from [Marquette University's Graduate School of Management.](https://www.marquette.edu/business/graduate/ms-applied-economics/) Before then, I earned my undergraduate degree in Economics from [Carthage College.](https://www.carthage.edu/academics/majors-minors/economics/). 
+## Education & Experience
+I am finishing my Ph.D. from [the Department of Economics](https://economics.colostate.edu/graduate/) at Colorado State University in Spring 2026. I completed my preliminary dissertation defense in Spring 2025. Prior to Colorado State, I earned my Master's in Science degree in Applied Economics with a concentration in mathematics from [Marquette University's Graduate School of Management.](https://www.marquette.edu/business/graduate/ms-applied-economics/) Before then, I earned my undergraduate degree in Economics from [Carthage College.](https://www.carthage.edu/academics/majors-minors/economics/)
 
 While at Colorado State, I worked as a Research Associate for [the National Wildlife Research Center](https://www.aphis.usda.gov/national-wildlife-programs/nwrc) as part of the USDA-APHIS from May 2023 until the end of my degree. Furthermore, I also worked as a Research Assistant for [CSU's Regional Economic Development Institute](https://csuredi.org/) during the Summer of 2022. At Marquette University, I worked as a Research Assistant for the [Office of Institutional Research and Analysis](https://www.marquette.edu/academic-effectiveness/institutional-research-analysis/) from September 2020 to May 2021.
 
