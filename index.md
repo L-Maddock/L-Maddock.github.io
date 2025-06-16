@@ -3,7 +3,6 @@ layout: home
 title: "Home"
 ---
 
-**Personal Website**
 
 ![Profile](/assets/img/profile.jpg)
 
