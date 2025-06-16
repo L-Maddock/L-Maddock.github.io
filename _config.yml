@@ -1,0 +1,18 @@
+```yaml
+title: "Luke Maddock"
+description: "Economics PhD Candidate, Colorado State University"
+url: "https://l-maddock.github.io"
+theme: minima
+
+# Define navigation
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - teaching.md
+  - contact.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+```
