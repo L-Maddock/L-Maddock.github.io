@@ -6,12 +6,13 @@ permalink: /teaching/
 
 ## Courses Taught
 
-- **ECON 500**: Advanced Econometrics (Fall 2024) – Instructor of record
-- **ECON 300**: Principles of Microeconomics (Spring 2024) – Teaching assistant
+- **ECON 240**: Issues in Environmental Economics (Fall 2025)
 
-## Teaching Statement
+## Teaching Assistant Positions
+- **ECON 204**: Principles of Macroeconomics (Fall 2021, Spring 2022)
+- **ECON 202**: Principles of Microeconomics (Fall 2022, Spring 2023)
 
-Briefly describe your teaching philosophy and any pedagogical training.
+
 
 
 
