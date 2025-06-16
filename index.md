@@ -16,11 +16,11 @@ Welcome! I’m a PhD candidate in economics at Colorado State University. Here y
 
 ## Contact
 
-**Email:** luke.maddock@colostate.edu  
-**GitHub:** [L‑Maddock](https://github.com/L-Maddock)  
-**Google Scholar:** [Profile](https://scholar.google.com/citations?user=L5dqWugAAAAJ&hl=en)
-**ORCID:** [Profile](https://orcid.org/my-orcid?orcid=0000-0001-5701-3425)
-**Twitter:** [Profile](https://x.com/Luke_Maddock)
+- **Email:** luke.maddock@colostate.edu  
+- **GitHub:** [L‑Maddock](https://github.com/L-Maddock)  
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=L5dqWugAAAAJ&hl=en)
+- **ORCID:** [Profile](https://orcid.org/my-orcid?orcid=0000-0001-5701-3425)
+- **Twitter:** [Profile](https://x.com/Luke_Maddock)
 
 
 
