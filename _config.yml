@@ -2,21 +2,38 @@
 title: "Luke Maddock"
 email: "luke.maddock@colostate.edu"
 description: "Economics PhD Candidate @ CSU"
-
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 author:
   name: "Luke Maddock"
   avatar: "/assets/img/avatar.jpg"
   bio: "Economics PhD Candidate, Colorado State University"
   location: "Fort Collins, Colorado"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:luke.maddock@colostate.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/L-Maddock"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=L5dqWugAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-5701-3425"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lukemaddock"
 
-social:
-  email: luke.maddock@colostate.edu
-  twitter: lukemaddock
-  github: l-maddock
-  scholar: https://scholar.google.com/citations?user=L5dqWugAAAAJ&hl=en
-  orcid: 0000-0001-5701-3425
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
