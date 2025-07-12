@@ -1,8 +1,6 @@
 ---
 layout: home
-sidebar: true
-title: "Home"
-permalink: /
+author_profile: true
 ---
 
 
