@@ -3,11 +3,21 @@ title: "Luke Maddock"
 email: "luke.maddock@colostate.edu"
 description: "Economics PhD Candidate @ CSU"
 remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
 
+# Minimal Mistakes skin
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-US"
+title_separator: "-"
+subtitle: # site tagline that appears below site title in masthead
+name: "Luke Maddock"
+description: "Economics PhD Candidate @ CSU"
+url: "https://l-maddock.github.io"
+baseurl: ""
+repository: "L-Maddock/L-Maddock.github.io"
+
+# Site Author
 author:
   name: "Luke Maddock"
   avatar: "/assets/img/avatar.jpg"
@@ -30,10 +40,57 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lukemaddock"
 
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:luke.maddock@colostate.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/L-Maddock"
+
+# Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
