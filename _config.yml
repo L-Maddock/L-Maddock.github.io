@@ -1,30 +1,22 @@
-# 1. Basic info
-title: “Luke Maddock”             # shows up in browser title bar
-email: “luke.maddock@colostate.edu”
-description: “Economics PhD Candidate @ CSU”  # meta description
+# _config.yml
+title: "Luke Maddock"
+email: "luke.maddock@colostate.edu"
+description: "Economics PhD Candidate @ CSU"
 
-# 2. Theme activation
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# 3. Author / Profile settings
 author:
-  name: “Luke Maddock”
-  avatar: /assets/img/avatar.jpg   # you’ll add this file in a moment
-  bio: “Economics PhD Candidate, Colorado State University”
-  location: “Fort Collins, Colorado”  # optional
+  name: "Luke Maddock"
+  avatar: "/assets/img/avatar.jpg"
+  bio: "Economics PhD Candidate, Colorado State University"
+  location: "Fort Collins, Colorado"
 
-# 4. Social links
 social:
   email: luke.maddock@colostate.edu
   twitter: lukemaddock
   github: l-maddock
   scholar: https://scholar.google.com/citations?user=XXXXXXX
   orcid: 0000-000X-XXXX-XXXX
-
-# 5. Navigation links
-#   Create a file _data/navigation.yml (see next section)
-
-
