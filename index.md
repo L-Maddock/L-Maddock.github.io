@@ -1,7 +1,10 @@
 ---
 layout: home
+sidebar: true
 title: "Home"
+permalink: /
 ---
+
 
 
 ![Profile](/assets/img/profile.jpg)
