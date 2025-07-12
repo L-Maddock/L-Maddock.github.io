@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Research"
-permalink: /research/
+layout: single
+title: "Research"  # or "Teaching"
+permalink: /research/  # or /teaching/
+author_profile: true
 ---
 
 ## Manuscripts in Submission
