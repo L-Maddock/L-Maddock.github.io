@@ -1,17 +1,22 @@
 # _config.yml
-title: "Where Does This Go"
+title: "Where Does This Appear"
 email: "luke.maddock@colostate.edu"
 description: "Economics PhD Candidate @ CSU"
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Add this section to enable navigation
+masthead:
+  title: "Where Does This Appear - MastHead"
+  navigation: true
+
 # Minimal Mistakes skin
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default"
 
 # Site Settings
 locale: "en-US"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "And This One"
+name: "Where Does This Appear - Site Settings"
 description: "Economics PhD Candidate @ CSU"
 url: "https://l-maddock.github.io"
 baseurl: ""
@@ -19,7 +24,7 @@ repository: "L-Maddock/L-Maddock.github.io"
 
 # Site Author
 author:
-  name: "Also This One"
+  name: "Where Does This Appear - Site Author"
   avatar: "/assets/img/avatar.jpg"
   bio: "Economics PhD Candidate, Colorado State University"
   location: "Fort Collins, Colorado"
