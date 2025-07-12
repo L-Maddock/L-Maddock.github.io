@@ -1,6 +1,6 @@
 title: "Luke Maddock"
 url: "https://l-maddock.github.io"
-theme: minima
+theme: minimal-mistakes-jekyll
 
 # Define navigation
 header_pages:
