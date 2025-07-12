@@ -1,5 +1,5 @@
 # _config.yml
-title: "Luke Maddock"
+title: "Where Does This Go"
 email: "luke.maddock@colostate.edu"
 description: "Economics PhD Candidate @ CSU"
 remote_theme: "mmistakes/minimal-mistakes"
@@ -11,7 +11,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Luke Maddock"
+name: "And This One"
 description: "Economics PhD Candidate @ CSU"
 url: "https://l-maddock.github.io"
 baseurl: ""
@@ -19,7 +19,7 @@ repository: "L-Maddock/L-Maddock.github.io"
 
 # Site Author
 author:
-  name: "Luke Maddock"
+  name: "Also This One"
   avatar: "/assets/img/avatar.jpg"
   bio: "Economics PhD Candidate, Colorado State University"
   location: "Fort Collins, Colorado"
