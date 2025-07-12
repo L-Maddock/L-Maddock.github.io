@@ -1,0 +1,11 @@
+# _data/navigation.yml
+- title: Home
+  url: /
+- title: About Me
+  url: /about/
+- title: Research
+  url: /research/
+- title: Teaching
+  url: /teaching/
+- title: CV
+  url: /assets/MaddockL_CV-3.pdf
