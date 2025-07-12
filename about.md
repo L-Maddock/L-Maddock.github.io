@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: sidebar
 title: "About Me"
 permalink: /about/
 ---
+
 
 
 ## Education & Experience
