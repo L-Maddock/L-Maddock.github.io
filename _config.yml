@@ -1,6 +1,10 @@
 title: "Luke Maddock"
 url: "https://l-maddock.github.io"
 theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed    # optional, adds RSS feed
+  - jekyll-sitemap # optional, adds sitemap.xml
+
 
 # Define navigation
 header_pages:
