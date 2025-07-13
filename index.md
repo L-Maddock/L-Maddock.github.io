@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome!
 
-I'm a PhD candidate in the Department of Economics at Colorado State University, specializing in **housing policy, ecosystem service valuation, and public health**. My research utilizes causal inference and machine learning methods to understand how policy interventions affect vulnerable populations and ecosystem services.
+I'm a PhD candidate in the Department of Economics at Colorado State University, specializing in **housing policy, ecosystem service valuation, and public health**. My research utilizes causal inference and machine learning methods to understand how policy interventions affect vulnerable populations and ecosystem services. I am expecting to complete my final dissertation defense in Spring 2026.
 
 ## Currently on the 2025-26 Academic Job Market
 
@@ -15,22 +15,11 @@ I'm seeking positions in academic economics, policy research, and applied econom
 
 ## Research Focus
 
-My work is primarily focused on the application of policy, which combines methods in causal inference and machine learning to explain social and environmental phenomena:
+My primary fields of work are Public Economics, Environmental Economics, Urban Economics, and Econometrics. My research is primarily focused on the application of policy, where I attempt to use methods in causal inference and machine learning to explain social and environmental phenomena:
 
-- **Housing & Homelessness**: Federal grant funding, Tenant protection policies, and counting methods  
+- **Housing & Homelessness**: Federal grant funding, tenant protection policies, and counting methods  
 - **Environmental Economics**: Machine learning approaches to ecosystem service valuation  
 - **Public Health**: Social impacts of sports betting legalization  
-
-
-
-## Quick Facts
-
-- **PhD Completion**: Expected Spring 2026, Colorado State University
-- **Fields**: Public Economics, Environmental Economics, Urban Economics, Econometrics
-- **Methods**: Causal inference, machine learning, spatial analysis
-- **Work Experience**: USDA-APHIS National Wildlife Research Center, CSU Regional Economic Development Institute
-
----
 
 ## 📬 Get in Touch
 
