@@ -13,7 +13,7 @@ author_profile: true
 
 ## Working Papers
 
-1. 1. **Maddock, L.** *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws.* **(Job Market Paper)**
+1. 1. **Maddock, L.** *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws.* **(Job Market Paper)**. [📄 Download PDF](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
       <details>
    <summary><strong>Abstract</strong></summary>
    <p>
