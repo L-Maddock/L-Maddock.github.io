@@ -11,7 +11,7 @@ I'm a PhD candidate in the Department of Economics at Colorado State University,
 
 ## Currently on the 2025-26 Academic Job Market
 
-I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions.
+I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions. My job market paper, *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws*, can be found here. [📄 View Draft](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
 
 ## Research Focus
 
@@ -21,10 +21,7 @@ My work is primarily focused on the application of policy, which combines method
 - **Environmental Economics**: Machine learning approaches to ecosystem service valuation  
 - **Public Health**: Social impacts of sports betting legalization  
 
-## Featured Work
 
-**Job Market Paper**: *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws*  
-[📄 View Draft](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
 
 ## Quick Facts
 
