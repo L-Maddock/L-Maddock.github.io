@@ -8,7 +8,7 @@ author_profile: true
 
 You can view or download my CV using the link below:
 
-[Download CV (PDF)](/assets/MaddockL_CV-3.pdf){: .btn .btn--primary}
+[Download CV (PDF)](/assets/MaddockLuke_CV.pdf){: .btn .btn--primary}
 
 <iframe src="/assets/MaddockL_CV-3.pdf" width="100%" height="800px" style="border: none;">
   <p>Your browser does not support iframes. <a href="/assets/MaddockL_CV-3.pdf">Download the PDF</a> instead.</p>
