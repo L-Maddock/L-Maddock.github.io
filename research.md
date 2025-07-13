@@ -9,7 +9,7 @@ author_profile: true
 
 1. Petach, L., Maddock, L., & Pena, A.-A. *Housing Affordability and Homelessness: Evidence from Commuting Zones.* Submitted.  
 2. Maddock, L., McKee, S., Nelson, F., & Altringer, L. *Valuation of Wetland Ecosystem Services in the United States.* Submitted to *Ecosystem Services* [📄 View on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158025){: .btn .btn--primary .btn--small}.
-3. Maddock, L. & Pena, A-A. *Funding, Facilities, and the Face of Homelessness: Heterogeneous Impacts of Federal Grants on Sheltered and Unsheltered Counts.*
+3. Maddock, L. & Pena, A-A. *Funding, Facilities, and the Face of Homelessness: Heterogeneous Impacts of Federal Grants on Sheltered and Unsheltered Counts.* Submitted to *Southern Economic Journal*. [📄 Download PDF](/assets/papers/wetlands_valuation.pdf){: .btn .btn--primary .btn--small}
 
 ## Working Papers
 
