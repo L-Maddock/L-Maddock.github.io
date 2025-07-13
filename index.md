@@ -41,14 +41,4 @@ My work examines the unintended consequences of well-intentioned policies:
 **Email**: [luke.maddock@colostate.edu](mailto:luke.maddock@colostate.edu)
 
 **Find me online**: [Google Scholar](https://scholar.google.com/citations?user=L5dqWugAAAAJ&hl=en) • [GitHub](https://github.com/L-Maddock) • [Twitter](https://x.com/Luke_Maddock) • [ORCID](https://orcid.org/0000-0001-5701-3425)
-```
 
-
-
-The key improvements are:
-1. **More personality** - Shows your research interests upfront
-2. **Job market emphasis** - Makes your availability clear
-3. **Specific expertise** - Highlights your methodological strengths
-4. **Research teasers** - Gives visitors reasons to explore further
-5. **Better visual hierarchy** - Uses emojis, sections, and buttons effectively
-6. **Professional but approachable** - Balances academic credibility with accessibility
