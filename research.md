@@ -13,8 +13,9 @@ author_profile: true
 
 ## Working Papers
 
-1. 1. **Maddock, L.** *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws.* **(Job Market Paper)**. [📄 Download PDF](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
-      <details>
+1. **Maddock, L.** *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws.* **(Job Market Paper)**. [📄 Download PDF](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
+
+   <details>
    <summary><strong>Abstract</strong></summary>
    <p>
 This paper analyzes how Source-of-Income Protection (SOIP) policies affect low-income renters who use Housing Choice Vouchers (HCVs) to lease housing. In many localities, landlords can legally reject tenants solely due to the use of a public subsidy. Recent legislation aims to curtail such practices by labeling voucher holders’ income as “lawful source,” thereby restricting landlords’ ability to discriminate. To study the consequences of these reforms, I assemble a panel of Continuums of Care (CoCs) spanning 2009–2018 and track staggered policy adoption across states, counties, and municipalities. Relying on a modern difference-in-differences framework that accounts for heterogeneous treatment timing, I estimate how SOIP adoption influences outcomes for households participating in the HCV program and households in the broader locality. Results from an intent-to-treat framework indicate that housing and neighborhood characteristics improve for HCV households after an SOIP policy is passed, but rental housing costs and homelessness increase for the entire area. One interpretation is that the policy improves outcomes for some voucher tenants but triggers offsetting housing provider decisions that adversely affect other low-income renters. These findings highlight how well-intended rules against source-of-income discrimination do not necessarily curb overall housing instability.
@@ -22,6 +23,7 @@ This paper analyzes how Source-of-Income Protection (SOIP) policies affect low-i
    </details>
    
 2. Maddock, L., McKee, S., Altringer, L. *Total Economic Valuation of Inland Wetlands in the United States: A Machine Learning Approach.*
+   
          <details>
    <summary><strong>Abstract</strong></summary>
    <p>
@@ -30,6 +32,7 @@ This paper analyzes how Source-of-Income Protection (SOIP) policies affect low-i
    </details>
    
 3. Gifford, T. & Maddock. L. *The Mental and Physical Health Effects of Legalized Sports Betting in the United States.*
+   
          <details>
    <summary><strong>Abstract</strong></summary>
    <p>
