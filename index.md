@@ -25,7 +25,7 @@ My work examines the unintended consequences of well-intentioned policies:
 ## 📄 Featured Work
 
 **Job Market Paper**: *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws*  
-[📄 View Abstract](/research/#job-market-paper){: .btn .btn--primary .btn--small}
+[📄 View Abstract](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
 
 ## 🎓 Quick Facts
 
