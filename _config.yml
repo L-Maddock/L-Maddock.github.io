@@ -1,5 +1,5 @@
 # _config.yml
-title: "Where Does This Appear"
+title: "Luke Maddock - Personal Website"
 email: "luke.maddock@colostate.edu"
 description: "Economics PhD Candidate @ CSU"
 remote_theme: "mmistakes/minimal-mistakes"
@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default"
 locale: "en-US"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Where Does This Appear - Site Settings"
+name: "Luke Maddock"
 description: "Economics PhD Candidate @ CSU"
 url: "https://l-maddock.github.io"
 baseurl: ""
