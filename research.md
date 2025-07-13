@@ -13,12 +13,12 @@ author_profile: true
    [📄 View on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158025){: .btn .btn--primary .btn--small}
 
 3. **Maddock, L. & Pena, A.-A.** *Funding, Facilities, and the Face of Homelessness: Heterogeneous Impacts of Federal Grants on Sheltered and Unsheltered Counts.* Submitted to *Southern Economic Journal*.  
-   [📄 Download PDF](/assets/FundingPaperDraft_July12.pdf){: .btn .btn--primary .btn--small}
+   [📄 View PDF](/assets/FundingPaperDraft_July12.pdf){: .btn .btn--primary .btn--small}
 
 ## Working Papers
 
 1. **Maddock, L.** *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws.* **(Job Market Paper)**.  
-   [📄 Download PDF](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
+   [📄 View PDF](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
 
    <details>
    <summary><strong>Abstract</strong></summary>
