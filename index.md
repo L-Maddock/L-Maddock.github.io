@@ -19,7 +19,9 @@ My primary fields of work are Public Economics, Environmental Economics, Urban E
 
 - **Housing & Homelessness**: Federal grant funding, tenant protection policies, and counting methods  
 - **Environmental Economics**: Machine learning approaches to ecosystem service valuation  
-- **Public Health**: Social impacts of sports betting legalization  
+- **Public Health**: Social impacts of sports betting legalization
+
+I also maintain an R Shiny application that maps Continuum of Care boundaries and homelessness summary statistics, [found here at this link](http://qa38vl-lmad1997.shinyapps.io/coc-explorer).
 
 ## 📬 Get in Touch
 
