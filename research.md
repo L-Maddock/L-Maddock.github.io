@@ -12,18 +12,18 @@ author_profile: true
 2. **Maddock, L., McKee, S., Nelson, F., & Altringer, L.** *Valuation of Wetland Ecosystem Services in the United States.* Submitted to *Ecosystem Services*.  
    [📄 View on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158025){: .btn .btn--primary .btn--small}
 
-3. **Maddock, L. & Pena, A.-A.** *Funding, Facilities, and the Face of Homelessness: Heterogeneous Impacts of Federal Grants on Sheltered and Unsheltered Counts.* Submitted to *Southern Economic Journal*.  
+3. **Maddock, L. & Pena, A.-A.** *Funding, Facilities, and the Face of Homelessness: Heterogeneous Impacts of Federal Grants on Sheltered and Unsheltered Counts.* Revise and Resubmit at *Southern Economic Journal*.  
    [📄 View PDF](/assets/FundingPaperDraft_July12.pdf){: .btn .btn--primary .btn--small}
 
 ## Working Papers
 
-1. **Maddock, L.** *Source of Income Discrimination and Homelessness: Effects of Anti-Discrimination Laws.* **(Job Market Paper)**.  
-   [📄 View PDF](/assets/Maddock_JMP.pdf){: .btn .btn--primary .btn--small}
+1. **Maddock, L.** *Voucher Tenant Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws.* **(Job Market Paper)**.  
+   [📄 View PDF](/assets/Maddock_JMP_Draft_915.pdf){: .btn .btn--primary .btn--small}
 
    <details>
    <summary><strong>Abstract</strong></summary>
    <p>
-   This paper analyzes how Source-of-Income Protection (SOIP) policies affect low-income renters who use Housing Choice Vouchers (HCVs) to lease housing. In many localities, landlords can legally reject tenants solely due to the use of a public subsidy. Recent legislation aims to curtail such practices by labeling voucher holders' income as "lawful source," thereby restricting landlords' ability to discriminate. To study the consequences of these reforms, I assemble a panel of Continuums of Care (CoCs) spanning 2009–2018 and track staggered policy adoption across states, counties, and municipalities. Relying on a modern difference-in-differences framework that accounts for heterogeneous treatment timing, I estimate how SOIP adoption influences outcomes for households participating in the HCV program and households in the broader locality. Results from an intent-to-treat framework indicate that housing and neighborhood characteristics improve for HCV households after an SOIP policy is passed, but rental housing costs and homelessness increase for the entire area. One interpretation is that the policy improves outcomes for some voucher tenants but triggers offsetting housing provider decisions that adversely affect other low-income renters. These findings highlight how well-intended rules against source-of-income discrimination do not necessarily curb overall housing instability.
+This paper studies the effects of source-of-income (SOI) protection laws on voucher geography and rental prices. I assemble an annual panel of incorporated places with at least 65,000 residents from 2011–2019 and exploit staggered adoption across 57 jurisdictions with first effective dates in 2013–2018. Identification follows \citet{callaway2021did}: cohort-by-time average treatment effects are estimated using never-adopters as the counterfactual, with doubly robust adjustment for baseline differences in observables. Across four measures of voucher location (voucher-weighted tract poverty, a normalized HHI of concentration, the share of tracts with any voucher presence, and the average number of voucher households per occupied tract), event-study profiles show flat pre-trends and no detectable post-adoption change. By contrast, lower-tier rents rise after adoption: the 25th-percentile contract rent increases by 0.049 log points (about 5 percent), the 75th percentile is unchanged, and the stock of very low-rent units falls by 1.8 percentage points. Effects are larger where laws are stronger by enforcement and exemption differences, and where pre-treatment rental housing markets are tighter. The pattern is consistent with landlords passing perceived compliance and screening costs through to prices in voucher-relevant segments, without altering the within-place geography of voucher residence over the study horizon. The results imply that legal access alone is unlikely to deliver neighborhood gains for voucher households absent complementary reforms that reduce leasing frictions and expand low-rent supply.
    </p>
    </details>
 
