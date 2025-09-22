@@ -7,11 +7,11 @@ permalink: /
 
 # Welcome!
 
-I'm a PhD candidate in the Department of Economics at Colorado State University, specializing in **housing policy, ecosystem service valuation, and public health**. My research utilizes causal inference and machine learning methods to understand how policy interventions affect vulnerable populations and ecosystem services. I am expecting to complete my final dissertation defense in Spring 2026.
+I'm a PhD candidate in the Department of Economics at Colorado State University, specializing in **homelessness, housing policy, and ecosystem service valuation**. My research utilizes causal inference and machine learning methods to understand how policy interventions affect vulnerable populations and ecosystem services. I am expecting to complete my final dissertation defense in Spring 2026.
 
 ## Currently on the 2025-26 Academic Job Market
 
-I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions. My job market paper, *Voucher Tenant Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws*, can be found here. [📄 View Draft](/assets/Maddock_JMP_Draft_915.pdf){: .btn .btn--primary .btn--small}
+I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions. My job market paper, *Voucher Household Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws*, can be found here. [📄 View Draft](/assets/Maddock_JMP_Draft_915.pdf){: .btn .btn--primary .btn--small}
 
 ## Research Focus
 
