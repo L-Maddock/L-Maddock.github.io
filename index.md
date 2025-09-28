@@ -11,7 +11,7 @@ I'm a PhD candidate in the Department of Economics at Colorado State University,
 
 ## Currently on the 2025-26 Academic Job Market
 
-I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions. My job market paper, *Voucher Household Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws*, can be found here. [📄 View Draft](/assets/Maddock_JMP_Draft_915.pdf){: .btn .btn--primary .btn--small}
+I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions. My job market paper, *Voucher Household Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws*, can be found here. [📄 View Draft](/assets/Maddock_JMP_Draft_929.pdf){: .btn .btn--primary .btn--small}
 
 ## Research Focus
 
