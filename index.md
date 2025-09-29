@@ -5,12 +5,6 @@ title: "Home"
 permalink: /
 ---
 
-{% include figure
-   image_path="/assets/pic1.jpg"
-   alt="Luke Maddock"
-   class="align-right"
-   width="260" %}
-
 # Welcome!
 
 I'm a PhD candidate in the Department of Economics at Colorado State University, specializing in **homelessness, housing policy, and ecosystem service valuation**. My research utilizes causal inference and machine learning methods to understand how policy interventions affect vulnerable populations and ecosystem services. I am expecting to complete my final dissertation defense in Spring 2026.
