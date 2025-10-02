@@ -7,7 +7,7 @@ author_profile: true
 
 ## Manuscripts in Submission
 
-1. **Petach, L., Maddock, L., & Pena, A.-A.** *Housing Affordability and Homelessness: Evidence from Commuting Zones.* Submitted to *Contemporary Economic Policy*.
+1. **Petach, L., Maddock, L., & Pena, A.-A.** *Housing Affordability and Homelessness: Evidence from Commuting Zones.* Revise and Resubmit at *Economic Development Quarterly*.
 
 2. **Maddock, L., McKee, S., Nelson, F., & Altringer, L.** *Valuation of Wetland Ecosystem Services in the United States.* Submitted to *Ecosystem Services*.  
    [📄 View on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158025){: .btn .btn--primary .btn--small}
