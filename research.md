@@ -18,7 +18,7 @@ author_profile: true
 ## Working Papers
 
 1. **Maddock, L.** *Voucher Tenant Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws.* **(Job Market Paper)**.  
-   [📄 View PDF](/assets/Maddock_JMP_Draft_929.pdf){: .btn .btn--primary .btn--small}
+   [📄 View PDF](/assets/Maddock_JMP_Draft.pdf){: .btn .btn--primary .btn--small}
 
    <details>
    <summary><strong>Abstract</strong></summary>
