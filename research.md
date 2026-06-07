@@ -64,4 +64,3 @@ author_profile: true
 **2023** — Midwestern Economics Association (Cleveland, OH); Western Economics Association; Western States Graduate Workshop (Fort Collins, CO)---
 
 
-4. **Maddock, L. & Pena, A-A.** *Funding, Facilities, and the Face of Homelessness: Heterogeneous Impacts of Federal Grants on Sheltered and Unsheltered Counts.* Panel Presentation, Midwestern Economics Association Conference, Cleveland, OH (04/23)
