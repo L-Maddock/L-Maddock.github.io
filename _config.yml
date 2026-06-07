@@ -2,7 +2,7 @@
 title: "Luke Maddock"
 email: "maddockl@denison.edu"
 description: "Assistant Professor of Data Analytics, Denison University"
-# remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 
 
 # Minimal Mistakes skin
