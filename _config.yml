@@ -13,7 +13,6 @@ locale: "en-US"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Luke Maddock"
-description: "Economics PhD Candidate @ CSU"
 url: "https://l-maddock.github.io"
 baseurl: ""
 repository: "L-Maddock/L-Maddock.github.io"
@@ -46,7 +45,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:luke.maddock@colostate.edu"
+      url: "mailto:maddockl@denison.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/L-Maddock"
