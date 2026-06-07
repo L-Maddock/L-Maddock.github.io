@@ -19,7 +19,7 @@ I'm an incoming Assistant Professor in the Department of Data Analytics at [Deni
     <p>Machine-learning approaches to valuing ecosystem services and understanding zoonotic diseases.</p>
   </div>
   <div class="research-card">
-    <div class="icon"><i class="fa fa-futbol-o"></i></div>
+    <div class="icon"><i class="fas fa-futbol"></i></div>
     <h4>Sports Analytics</h4>
     <p>Inference and data provision for sports research.</p>
   </div>
