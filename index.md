@@ -16,7 +16,7 @@ I'm an incoming Assistant Professor in the Department of Data Analytics at [Deni
   <div class="research-card">
     <div class="icon"><i class="fas fa-leaf"></i></div>
     <h4>Environmental Economics</h4>
-    <p>Machine-learning approaches to valuing wetlands and ecosystem services.</p>
+    <p>Machine-learning approaches to valuing ecosystem services and understanding zoonotic diseases.</p>
   </div>
   <div class="research-card">
     <div class="icon"><i class="fa fa-futbol-o"></i></div>
