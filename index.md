@@ -5,27 +5,26 @@ title: "Home"
 permalink: /
 ---
 
-# Welcome!
+I'm an incoming Assistant Professor in the Department of Data Analytics at [Denison University](https://denison.edu). My research uses causal inference and machine learning to study housing and homelessness policy, environmental and wildlife policy, and sports analytics.
 
-I'm a PhD candidate in the Department of Economics at Colorado State University, specializing in **homelessness, housing policy, and ecosystem service valuation**. My research utilizes causal inference and machine learning methods to understand how policy interventions affect vulnerable populations and ecosystem services. I am expecting to complete my final dissertation defense in Spring 2026.
+<div class="research-cards" markdown="0">
+  <div class="research-card">
+    <div class="icon"><i class="fas fa-home"></i></div>
+    <h4>Housing &amp; Homelessness</h4>
+    <p>Tenant protections, federal grant funding, and methods for measuring homelessness.</p>
+  </div>
+  <div class="research-card">
+    <div class="icon"><i class="fas fa-leaf"></i></div>
+    <h4>Environmental Economics</h4>
+    <p>Machine-learning approaches to valuing wetlands and ecosystem services.</p>
+  </div>
+  <div class="research-card">
+    <div class="icon"><i class="fa fa-futbol-o"></i></div>
+    <h4>Sports Analytics</h4>
+    <p>Inference and data provision for sports research.</p>
+  </div>
+</div>
 
-## Currently on the 2025-26 Academic Job Market
+Browse my [research](/research/), see what I'm [teaching](/teaching/), or view my [CV](/cv/). I also maintain the [Continuum of Care Mapper](https://qa38vl-lmad1997.shinyapps.io/coc-explorer/), an R Shiny app for visualizing CoC boundaries and homelessness statistics.
 
-I'm seeking positions in academic economics, policy research, and applied economics roles where I can contribute to evidence-based policy solutions. My job market paper, *Voucher Household Mobility and Rental Market Dynamics: Evidence from Source of Income Protection Laws*, can be found here. [📄 View Draft](/assets/Maddock_JMP_Draft.pdf){: .btn .btn--primary .btn--small}
-
-## Research Focus
-
-My primary fields of work are Public Economics, Environmental Economics, Urban Economics, and Econometrics. My research is primarily focused on the application of policy, where I attempt to use methods in causal inference and machine learning to explain social and environmental phenomena:
-
-- **Housing & Homelessness**: Federal grant funding, tenant protection policies, and counting methods  
-- **Environmental Economics**: Machine learning approaches to ecosystem service valuation  
-- **Public Health**: Social impacts of sports betting legalization
-
-I also maintain an R Shiny application that maps Continuum of Care boundaries and homelessness summary statistics, [found here at this link](http://qa38vl-lmad1997.shinyapps.io/coc-explorer).
-
-## 📬 Get in Touch
-
-**Email**: [luke.maddock@colostate.edu](mailto:luke.maddock@colostate.edu)
-
-**Find me online**: [Google Scholar](https://scholar.google.com/citations?user=L5dqWugAAAAJ&hl=en) • [GitHub](https://github.com/L-Maddock) • [Twitter](https://x.com/Luke_Maddock) • [ORCID](https://orcid.org/0000-0001-5701-3425)
-
+**Email:** [maddockl@denison.edu](mailto:maddockl@denison.edu)
