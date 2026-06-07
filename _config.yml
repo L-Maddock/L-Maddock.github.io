@@ -1,8 +1,8 @@
 # _config.yml
-title: "Luke Maddock - Personal Website"
-email: "luke.maddock@colostate.edu"
-description: "Economics PhD Candidate @ CSU"
-remote_theme: "mmistakes/minimal-mistakes"
+title: "Luke Maddock"
+email: "maddockl@denison.edu"
+description: "Assistant Professor of Data Analytics, Denison University"
+# remote_theme: "mmistakes/minimal-mistakes"
 
 
 # Minimal Mistakes skin
@@ -22,12 +22,12 @@ repository: "L-Maddock/L-Maddock.github.io"
 author:
   name: "Luke Maddock"
   avatar: "/assets/pic1.jpg"
-  bio: "Economics PhD Candidate, Colorado State University"
-  location: "Fort Collins, Colorado"
+  bio: "Assistant Professor of Data Analytics, Denison University"
+  location: "Granville, Ohio"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:luke.maddock@colostate.edu"
+      url: "mailto:maddockl@denison.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/L-Maddock"
