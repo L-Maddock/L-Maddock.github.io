@@ -71,7 +71,7 @@ details summary { cursor: pointer; color: $primary-color; font-weight: 600; }
 .carousel-slide { flex: 0 0 100%; }
 .carousel-slide img {
   width: 100%;
-  height: 540px;                 /* figure height — raise/lower to taste */
+  height: 480px;                 /* figure height — raise/lower to taste */
   object-fit: contain;           /* shows the whole figure, no cropping */
   background: #fff;
   border: 1px solid #e7e2d8;
