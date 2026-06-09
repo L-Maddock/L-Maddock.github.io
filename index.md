@@ -60,6 +60,16 @@ I'm an incoming Assistant Professor in the Department of Data Analytics at [Deni
         </div>
       </div>
 
+            <!-- ===== FIGURE 6 ===== -->
+      <div class="carousel-slide">
+        <img src="/assets/figures/pic6_coefplot.png" alt="Heterogeneous effects of homelessness funding">
+        <div class="carousel-caption">
+          <div class="carousel-title">Heterogeneous effects of homelessness funding</div>
+          <div class="carousel-sub">Maddock &amp; Pena (2026) · Southern Economic Journal</div>
+          <a class="carousel-link" href="https://doi.org/10.1002/soej.70031">View paper &rarr;</a>
+        </div>
+      </div>
+
     </div>
   </div>
   <div class="carousel-controls">
