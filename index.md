@@ -12,51 +12,51 @@ I'm an incoming Assistant Professor in the Department of Data Analytics at [Deni
 
       <!-- ===== FIGURE 1 ===== -->
       <div class="carousel-slide">
-        <img src="/assets/figures/wetlands.png" alt="Map of wetland ecosystem service values across the U.S.">
+        <img src="/assets/figures/pic1_homelessfunding.png" alt="Counts and funding for homeless programs in the US, 2015 -- 2019 (HUD)">
         <div class="carousel-caption">
-          <div class="carousel-title">Wetland ecosystem service values across the U.S.</div>
-          <div class="carousel-sub">Maddock, Nelson, Altringer &amp; McKee (2026) · Ecosystem Services</div>
-          <a class="carousel-link" href="https://doi.org/10.1016/j.ecoser.2026.101849">View paper &rarr;</a>
+          <div class="carousel-title">Counts and Funding for Homeless Programs in the US, 2015 -- 2019 (HUD)</div>
+          <div class="carousel-sub">Maddock &amp; Pena (2026) · Southern Economic Journal</div>
+          <a class="carousel-link" href="https://doi.org/10.1002/soej.70031">View paper &rarr;</a>
         </div>
       </div>
 
       <!-- ===== FIGURE 2 ===== -->
       <div class="carousel-slide">
-        <img src="/assets/figures/soi-rents.png" alt="Event-study estimates of source-of-income protections on rents.">
+        <img src="/assets/figures/pic3_did.png" alt="Event-study estimates of source-of-income protections on rental market outcomes">
         <div class="carousel-caption">
-          <div class="carousel-title">Source-of-income protections and lower-tier rents</div>
-          <div class="carousel-sub">Working paper · event-study estimates</div>
+          <div class="carousel-title">Source-of-income protections and rental market outcomes</div>
+          <div class="carousel-sub">Working paper · Source of Income Protections</div>
           <a class="carousel-link" href="/assets/Maddock_JMP_Draft.pdf">View paper &rarr;</a>
         </div>
       </div>
 
       <!-- ===== FIGURE 3 ===== -->
       <div class="carousel-slide">
-        <img src="/assets/figures/grants-homelessness.png" alt="Sheltered versus unsheltered counts after federal grant awards.">
+        <img src="/assets/figures/pic2_cleveland.png" alt="Cleveland plot of 2021 imputed homeless counts by place">
         <div class="carousel-caption">
-          <div class="carousel-title">Federal grants and sheltered vs. unsheltered counts</div>
-          <div class="carousel-sub">Maddock &amp; Pena (2026) · Southern Economic Journal</div>
-          <a class="carousel-link" href="https://doi.org/10.1002/soej.70031">View paper &rarr;</a>
+          <div class="carousel-title">Imputed COVID-19 homeless counts by place</div>
+          <div class="carousel-sub">Working paper · Counting the Uncounted</div>
+          <a class="carousel-link" href="/assets/HomelessImputation_Paper.pdf">View paper &rarr;</a>
         </div>
       </div>
 
       <!-- ===== FIGURE 4 ===== -->
       <div class="carousel-slide">
-        <img src="/assets/figures/affordability.png" alt="Housing affordability and homelessness across commuting zones.">
+        <img src="/assets/figures/shap_heat_nice.png" alt="SHAP values of common predictive features">
         <div class="carousel-caption">
-          <div class="carousel-title">Housing affordability and homelessness</div>
-          <div class="carousel-sub">Petach, Maddock &amp; Pena (2026) · Economic Development Quarterly</div>
-          <a class="carousel-link" href="#">View paper &rarr;</a>
+          <div class="carousel-title">Predictive features of ecosystem service values</div>
+          <div class="carousel-sub">Maddock, Nelson, Altringer, &amp; McKee (2026) · Ecosystem Services</div>
+          <a class="carousel-link" href="https://doi.org/10.1016/j.ecoser.2026.101849">View paper &rarr;</a
         </div>
       </div>
 
       <!-- ===== FIGURE 5 ===== -->
       <div class="carousel-slide">
-        <img src="/assets/figures/referees.png" alt="Controversial referee decisions in Brazilian football leagues.">
+        <img src="/assets/figures/pic7_soimap.png" alt="Map of source of income protection policies, 2013 -- 2018">
         <div class="carousel-caption">
-          <div class="carousel-title">Controversial referee decisions in Brazilian football</div>
-          <div class="carousel-sub">Maddock &amp; Cicero · work in progress</div>
-          <a class="carousel-link" href="#">Learn more &rarr;</a>
+          <div class="carousel-title">Map of source of income protection policies, 2013 -- 2018</div>
+          <div class="carousel-sub">Working paper · Source of Income Protections</div>
+          <a class="carousel-link" href="/assets/Maddock_JMP_Draft.pdf">View paper &rarr;</a>
         </div>
       </div>
 
