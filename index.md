@@ -46,7 +46,7 @@ I'm an incoming Assistant Professor in the Department of Data Analytics at [Deni
         <div class="carousel-caption">
           <div class="carousel-title">Predictive features of ecosystem service values</div>
           <div class="carousel-sub">Maddock, Nelson, Altringer, &amp; McKee (2026) · Ecosystem Services</div>
-          <a class="carousel-link" href="https://doi.org/10.1016/j.ecoser.2026.101849">View paper &rarr;</a
+          <a class="carousel-link" href="https://doi.org/10.1016/j.ecoser.2026.101849">View paper &rarr;</a>
         </div>
       </div>
 
