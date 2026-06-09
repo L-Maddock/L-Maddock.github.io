@@ -70,6 +70,16 @@ I'm an incoming Assistant Professor in the Department of Data Analytics at [Deni
         </div>
       </div>
 
+                  <!-- ===== FIGURE 7 ===== -->
+      <div class="carousel-slide">
+        <img src="/assets/figures/pic8_cocmapper.png" alt="Dashboard of Continuum of Care statistics">
+        <div class="carousel-caption">
+          <div class="carousel-title">Dashboard of Continuum of Care statistics</div>
+          <div class="carousel-sub">Maddock (2025) · CoC Explorer</div>
+          <a class="carousel-link" href="https://qa38vl-lmad1997.shinyapps.io/coc-explorer/">View website &rarr;</a>
+        </div>
+      </div>
+
     </div>
   </div>
   <div class="carousel-controls">
